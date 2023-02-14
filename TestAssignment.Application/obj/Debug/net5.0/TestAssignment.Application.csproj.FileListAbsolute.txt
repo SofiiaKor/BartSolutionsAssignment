@@ -1,0 +1,15 @@
+D:\Робота\Bart solutions (test)\TestAssignment.Application\bin\Debug\net5.0\TestAssignment.Application.deps.json
+D:\Робота\Bart solutions (test)\TestAssignment.Application\bin\Debug\net5.0\TestAssignment.Application.dll
+D:\Робота\Bart solutions (test)\TestAssignment.Application\bin\Debug\net5.0\ref\TestAssignment.Application.dll
+D:\Робота\Bart solutions (test)\TestAssignment.Application\bin\Debug\net5.0\TestAssignment.Application.pdb
+D:\Робота\Bart solutions (test)\TestAssignment.Application\bin\Debug\net5.0\TestAssignment.Domain.dll
+D:\Робота\Bart solutions (test)\TestAssignment.Application\bin\Debug\net5.0\TestAssignment.Domain.pdb
+D:\Робота\Bart solutions (test)\TestAssignment.Application\obj\Debug\net5.0\TestAssignment.Application.csproj.AssemblyReference.cache
+D:\Робота\Bart solutions (test)\TestAssignment.Application\obj\Debug\net5.0\TestAssignment.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Робота\Bart solutions (test)\TestAssignment.Application\obj\Debug\net5.0\TestAssignment.Application.AssemblyInfoInputs.cache
+D:\Робота\Bart solutions (test)\TestAssignment.Application\obj\Debug\net5.0\TestAssignment.Application.AssemblyInfo.cs
+D:\Робота\Bart solutions (test)\TestAssignment.Application\obj\Debug\net5.0\TestAssignment.Application.csproj.CoreCompileInputs.cache
+D:\Робота\Bart solutions (test)\TestAssignment.Application\obj\Debug\net5.0\TestAssignment.Application.csproj.CopyComplete
+D:\Робота\Bart solutions (test)\TestAssignment.Application\obj\Debug\net5.0\TestAssignment.Application.dll
+D:\Робота\Bart solutions (test)\TestAssignment.Application\obj\Debug\net5.0\ref\TestAssignment.Application.dll
+D:\Робота\Bart solutions (test)\TestAssignment.Application\obj\Debug\net5.0\TestAssignment.Application.pdb
